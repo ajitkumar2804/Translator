@@ -24,7 +24,7 @@ h1 {
   
 #out {
     padding: 1rem ;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 #output {
     border: 1px solid black;
@@ -48,7 +48,7 @@ h1 {
 }
 .btn-trans {
     font-size: 1.3rem;
-    margin: auto;
+    margin-left: 1rem;
     padding: 1rem 1.5rem;
     background-color: #fbbf24;
     border-radius: 10px;
