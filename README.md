@@ -3,4 +3,5 @@ In This app You can Translate your simple English Text into Phineas and Ferb Lan
 https://translatorbyajit.netlify.app/
 
 
-![Translator](https://user-images.githubusercontent.com/61750538/135730150-71e85529-df7f-4d17-8621-44e71b11bf19.png)
+
+![Translator](https://user-images.githubusercontent.com/61750538/135730200-84f6bb77-fc36-4dce-b1fc-65b607703748.png)
