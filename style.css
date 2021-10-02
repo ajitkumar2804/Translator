@@ -32,6 +32,8 @@ h1 {
     width: 100%;
     margin: 1rem;
     padding: 1rem;
+    font-size: larger;
+    font-weight: bold;
 }
 #txt-input {
     font-size: 1.2rem;
